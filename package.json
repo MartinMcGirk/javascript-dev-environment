@@ -1,0 +1,14 @@
+{
+  "name": "jsenv",
+  "version": "1.0.0",
+  "description": "A tutorial on setting up javascript",
+  "main": "index.js",
+  "author": "Martin McGirk",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "color": "^0.11.4"
+  }
+}
