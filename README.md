@@ -3,7 +3,8 @@ The beginnings of a dev setup for me for writing ES6 javascript in Visual Studio
 
 You'll need to run the following commands on your machine for this to work.
 
-```curl -sL https://deb.nodesource.com/setup | sudo bash -
+```
+curl -sL https://deb.nodesource.com/setup | sudo bash -
 sudo apt-get install nodejs
 sudo apt-get install build-essential
 
