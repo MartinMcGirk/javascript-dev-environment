@@ -10,13 +10,10 @@ sudo apt-get install build-essential
 
 sudo npm install -g yarn
 
-yarn add --dev gulp
-yarn add --dev gulp-babel
-yarn add --dev babel-preset-latest
-yarn add --dev del
+yarn
 ```
 
-The run the following command from the root directory of the repository:
+Then run the following command from the root directory of the repository:
 
 ```
 yarn start
