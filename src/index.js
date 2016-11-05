@@ -1,9 +1,11 @@
+/* eslint-disable no-console */
+
+import Dog from './dog';
+
 console.log('Hello World');
 
 const str = 'ES6';
 console.log(`Hello ${str}`);
-
-import Dog from './dog';
 
 const toby = new Dog('Toby');
 console.log(toby.bark());
