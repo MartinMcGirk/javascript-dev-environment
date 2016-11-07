@@ -35,6 +35,9 @@
     ],
     "env": {
       "browser": true
+    },
+    "rules": {
+      "linebreak-style": "off"
     }
   },
   "babel": {
